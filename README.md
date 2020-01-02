@@ -6,5 +6,7 @@ pip install playsound
 ```
 
 > git clone <https://www.github.com/vikaspatelp83/Morse-Man.git>
+
 > cd Morse-Man 
+
 > python morse_man.py
